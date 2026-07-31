@@ -2,7 +2,8 @@
 Welcome to my Leetcode-Soluions repository!  
 This repository contains my solutions to Leetcode problems solved using Python. I am solving problems consistently to strengthen my DSA skills.  
 ## Topics learned till now  
- 1. Arrays    
+ 1. Arrays
+ 2. Strings    
 ## Goals  
 - Solve Leetcode problems regularly  
 - Improve problem solving skills  
